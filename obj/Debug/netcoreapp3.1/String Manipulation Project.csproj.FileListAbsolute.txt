@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.exe
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.deps.json
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.runtimeconfig.json
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.runtimeconfig.dev.json
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.dll
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\bin\Debug\netcoreapp3.1\String Manipulation Project.pdb
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\obj\Debug\netcoreapp3.1\String Manipulation Project.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\obj\Debug\netcoreapp3.1\String Manipulation Project.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\obj\Debug\netcoreapp3.1\String Manipulation Project.AssemblyInfo.cs
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\obj\Debug\netcoreapp3.1\String Manipulation Project.dll
+C:\Users\USER\source\repos\String Manipulation Project\String Manipulation Project\obj\Debug\netcoreapp3.1\String Manipulation Project.pdb
